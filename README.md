@@ -1,5 +1,5 @@
 
-# Heart Disease Prediction Using Machine Learning - Proposal Branch
+# Heart Disease Prediction Using Machine Learning
 
 ## 1. Project Overview
 
